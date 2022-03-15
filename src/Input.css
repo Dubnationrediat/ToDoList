@@ -1,0 +1,45 @@
+.list{
+   
+    background-color:#04423F ;
+    width: 50rem;
+    margin: 6.25rem auto;
+    height: 81.25rem;
+}
+h1{
+    background-color:#1D1D1F ;
+   color: white;
+   width: 31.25rem;
+    margin: auto;
+}
+input{
+     margin: 3.125rem auto;
+     border-radius: 0.25rem;
+     height: 1.875rem;
+     width: 40rem;
+}
+.btn{
+ margin-left: 0.625rem;
+ height: 1.875rem;
+ background-color: #FF8C10
+}
+
+h3{
+    background-color: #3164A9;
+}
+
+.btn2{
+    border-radius: 0.25rem;
+    background-color: aquamarine;
+    margin-right: 0.625rem;
+    width: 40px;
+    height: 60px;
+
+}
+.btn3{
+    border-radius: 0.25rem;
+    background-color: #EA1E3D;
+    margin-right: 0.625rem;
+    width: 48px;
+    height: 60px;
+}
+
